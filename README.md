@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MrTransistorsChannel&include_all_commits=true&show_icons=true&theme=nightowl&count_private=true&hide_border=true" />
 
-<!--
-**MrTransistorsChannel/MrTransistorsChannel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Mr Transistor
+- 🔭 Doing some Arduino & MC Java edition stuff
+- 🌱 Studying aircraft control systems
 
-Here are some ideas to get you started:
+### 💻 Environment
+[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
+[![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Desktop/Server-D64613?style=flat-square&logo=Ubuntu&logoColor=D64613&labelColor=FFFFFF)](https://https://ubuntu.com//)
+[![Arduino](https://img.shields.io/badge/Arduino-009297?style=flat-square&logo=Arduino&logoColor=009297&labelColor=FFFFFF)](https://www.arduino.cc/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact me
+[![Gmail](https://img.shields.io/badge/Gmail-AAAAAA?style=flat-square&logo=Gmail&logoColor=Red&labelColor=FFFFFF)](mailto:mrtransistor0108@gmail.com) mrtransistor0108@gmail.com
