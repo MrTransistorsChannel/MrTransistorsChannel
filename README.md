@@ -6,7 +6,7 @@
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
-[![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Desktop/Server-D64613?style=flat-square&logo=Ubuntu&logoColor=D64613&labelColor=FFFFFF)](https://https://ubuntu.com//)
+[![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Desktop/Server-D64613?style=flat-square&logo=Ubuntu&logoColor=D64613&labelColor=FFFFFF)](https://ubuntu.com//)
 [![Arduino](https://img.shields.io/badge/Arduino-009297?style=flat-square&logo=Arduino&logoColor=009297&labelColor=FFFFFF)](https://www.arduino.cc/)
 
 ### 📫 Contact me
