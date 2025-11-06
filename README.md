@@ -1,12 +1,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MrTransistorsChannel&include_all_commits=true&show_icons=true&theme=nightowl&count_private=true&hide_border=true" />
 
 ### Hi there 👋 I'm Mr Transistor
-- 🔭 Doing some Arduino & MC Java edition stuff
-- 🌱 Studying aircraft control systems
+- 🔭 Doing some STM32, Arduino & Minecraft Java edition stuff
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
 [![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Desktop/Server-D64613?style=flat-square&logo=Ubuntu&logoColor=D64613&labelColor=FFFFFF)](https://ubuntu.com//)
+[![STM32](https://img.shields.io/badge/STM32-3CB4E6?style=flat-square&logo=STMicroelectronics&logoColor=3CB4E6&labelColor=FFFFFF)](https://wiki.st.com/stm32mcu/wiki/Main_Page)
 [![Arduino](https://img.shields.io/badge/Arduino-009297?style=flat-square&logo=Arduino&logoColor=009297&labelColor=FFFFFF)](https://www.arduino.cc/)
 
 ### 📫 Contact me
